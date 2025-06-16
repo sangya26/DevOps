@@ -1,5 +1,12 @@
 #!/bin/bash
 
+#################
+# Author: Sangya
+# Date: 16th June
+# Version: v1
+# This script will integrate GitHub API
+###################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
