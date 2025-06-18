@@ -38,8 +38,8 @@ Each script in this directory serves a specific purpose and is accompanied by co
 Many scripts are cron-ready. Example:
 ```bash
 # Run system health check daily at 7AM
-0 7 * * * /path/to/shell/system_health_check.sh >> /var/log/sys_health.log
-
+`0 7 * * * /path/to/shell/system_health_check.sh >> /var/log/sys_health.log`
+```
 ## 🧰 Prerequisites
 - Unix/Linux-based environment (macOS, Ubuntu, CentOS, etc.)
 - Bash version 4.x or higher
